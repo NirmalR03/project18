@@ -1,4 +1,26 @@
-.footer{
+ .footer{
+                margin-left : 80px;
+                font-size : 18px;
+                margin-top: 300px;
+        }
+        .main{
+            display: grid;
+            grid-template-columns: repeat(5,auto);
+            width: 70%;
+            margin-left: 180px;
+            text-align: center;
+            column-gap: 10px;
+        }
+        .sc{
+            border: 1px solid rgb(221, 219, 219);
+            border-radius: 5px;
+            box-shadow: 1px 1px 1px 1px gray;
+        }
+        div :nth-child(3){
+            padding-left: 80px;
+            padding-right: 80px;
+        }
+/* .footer{
   margin-left : 80px;
   font-size : 18px;
-}
+} */
