@@ -11,7 +11,7 @@ grid-template-columns: repeat(5,auto);
 width: 65%;
 margin-left: 170px;
 text-align: center;
-column-gap: 20px;
+column-gap: 10px;
 }
 .c2{
 border: 1px solid rgb(248, 195, 195);
