@@ -1,26 +1,24 @@
  .footer{
-                margin-left : 80px;
-                font-size : 18px;
-                margin-top: 300px;
+                margin-left : 70px;
+                margin-top: 350px;
+                font-size : 15px;
+                
         }
-        .main{
+        .c1{
             display: grid;
             grid-template-columns: repeat(5,auto);
-            width: 70%;
-            margin-left: 180px;
+            width: 80%;
+            margin-left: 170px;
             text-align: center;
-            column-gap: 10px;
+            column-gap: 15px;
         }
-        .sc{
+        .c2{
             border: 1px solid rgb(221, 219, 219);
             border-radius: 5px;
             box-shadow: 1px 1px 1px 1px gray;
         }
         div :nth-child(3){
-            padding-left: 80px;
-            padding-right: 80px;
+            padding-left: 75px;
+            padding-right: 75px;
         }
-/* .footer{
-  margin-left : 80px;
-  font-size : 18px;
-} */
+
